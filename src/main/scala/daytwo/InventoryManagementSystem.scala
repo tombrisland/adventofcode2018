@@ -1,4 +1,4 @@
-package inventorymanagementsystem
+package daytwo
 
 import scala.collection.mutable
 import scala.io.Source

@@ -1,4 +1,4 @@
-package alchemicalreduction
+package dayfive
 
 import scala.collection.mutable
 import scala.io.Source

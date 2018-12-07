@@ -1,4 +1,4 @@
-package chronalcoordinates
+package daysix
 
 import scala.collection.mutable.ListBuffer
 import scala.io.Source

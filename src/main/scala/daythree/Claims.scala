@@ -1,4 +1,4 @@
-package claims
+package daythree
 
 import scala.collection.mutable
 import scala.collection.mutable.ListBuffer
